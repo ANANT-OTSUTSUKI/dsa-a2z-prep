@@ -1,8 +1,8 @@
 
-// ✅ Problem: Second Largest Element in Array
-// 🌐 Source: A2Z DSA Sheet - Step 1
-// 🔗 Link: https://takeuforward.org/data-structure/find-second-smallest-and-second-largest-element-in-an-array/
-// ✍️ Author: Anant Kumar
+// Problem: Second Largest Element in Array
+//  Source: A2Z DSA Sheet - Step 1
+//  Link: https://takeuforward.org/data-structure/find-second-smallest-and-second-largest-element-in-an-array/
+//  Author: Anant Kumar
 
 #include <iostream>
 #include <vector>
