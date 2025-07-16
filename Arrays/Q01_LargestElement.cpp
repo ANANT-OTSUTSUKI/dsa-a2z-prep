@@ -1,7 +1,6 @@
 
 // Problem: Largest Element in Array
 // Source: A2Z DSA Sheet - Step 1
-// Link: https://takeuforward.org/data-structure/find-the-largest-element-in-an-array/
 // Author: Anant Kumar
 
 #include <iostream>
