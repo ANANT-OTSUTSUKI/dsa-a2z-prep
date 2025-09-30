@@ -1,7 +1,7 @@
 
 /**
  * File: Q02_LowerBound.cpp
- * Author: Anant Otsutsuki
+ * Author: Anant Kumar
  * Description: Implementation of Lower Bound in C++.
  *              Given a sorted array, this program finds the index
  *              of the first element that is greater than or equal to the target.
