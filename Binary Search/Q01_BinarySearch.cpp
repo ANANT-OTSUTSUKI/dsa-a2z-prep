@@ -1,7 +1,7 @@
 
 /**
  * File: Q01_BinarySearch.cpp
- * Author: Anant Otsutsuki
+ * Author: Anant Kumar
  * Description: Implementation of Binary Search in C++.
  *              Given a sorted array, this program finds the index
  *              of a target element using iterative binary search.
